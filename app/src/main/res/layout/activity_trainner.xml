@@ -1,0 +1,40 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <TextView
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Er.Nishi Madaan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Er.Ridhi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Er.Rahul Hans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Er.Gagandeep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="30dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Er.Nikita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
